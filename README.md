@@ -1,2 +1,2 @@
 # practice-code
-code for javascript
+code for javascript and this is my first repository
